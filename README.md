@@ -1,2 +1,2 @@
 # learning_ml
-Learning machine learning
+An extensive repository that covers machine learning.
