@@ -14,3 +14,10 @@ An extensive repository that covers machine learning.
       Progress: In progress.
   * Analysis of scientific papers
   * Useful articles
+  
+# Courses:
+* Kadenze, Creative Applications of Deep Learning with Tensorflow
+* FastAI, Deep Learning Part 1, Deep Learning Part 2, Computational Linear Algebra
+* EdX, Processing Big Data with Azure Data Lake Analytics
+* Coursera, Machine Learning
+* University of Helsinki, Elements of AI
